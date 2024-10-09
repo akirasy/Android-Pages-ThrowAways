@@ -1,3 +1,10 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: Black 4 Battery
+description: Keep running your app, save battery on unused screen area
+
+github:
+    is_project_page: false
+    another_url: https://somelink.com
